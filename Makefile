@@ -1,5 +1,5 @@
 ARDUINO_DIR=/Applications/Arduino.app/Contents/Resources/Java
-ARDMK_DIR=/Users/Simon/git-repositories/Arduino-Makefile
+ARDMK_DIR=/Users/<user>/git-repositories/Arduino-Makefile
 AVRDUDE=/usr/local/bin/avrdude
 ISP_PORT=
 AVRDUDE_OPTS= -patmega328p -cusbtiny
